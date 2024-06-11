@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'AI World',
   domain: 'docs.lovefree.ai',
-  author: 'Arthur Owen',
+  author: 'Arthur SU',
 
   // open graph metadata (optional)
   description: 'Beautiful world with AI',
